@@ -1,0 +1,6 @@
+/node_modules
+/dist
+package-lock.json
+/src/utility/.env.dev
+/src/utility/.env.prod
+/src/utility/.env.testing
